@@ -1,4 +1,4 @@
-<h1 align="center">HTML website template/h1>
+<h1 align="center">HTML website template</h1>
 
 ## 💻 About the project
 
