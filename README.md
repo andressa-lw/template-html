@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Recomendações
+## 🚀 Recommendations
 
 Make a clone of this repository and access the directory.
 
